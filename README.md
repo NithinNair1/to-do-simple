@@ -1,4 +1,4 @@
-# Features
+# About
 
 -Simple To-Do App
 
