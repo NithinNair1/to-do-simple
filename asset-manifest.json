@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/to-do-simple/static/css/main.dd3a2d97.chunk.css",
+    "main.js": "/to-do-simple/static/js/main.0e670121.chunk.js",
+    "main.js.map": "/to-do-simple/static/js/main.0e670121.chunk.js.map",
+    "runtime~main.js": "/to-do-simple/static/js/runtime~main.91f7c6a3.js",
+    "runtime~main.js.map": "/to-do-simple/static/js/runtime~main.91f7c6a3.js.map",
+    "static/js/2.b1a81836.chunk.js": "/to-do-simple/static/js/2.b1a81836.chunk.js",
+    "static/js/2.b1a81836.chunk.js.map": "/to-do-simple/static/js/2.b1a81836.chunk.js.map",
+    "index.html": "/to-do-simple/index.html",
+    "precache-manifest.1af9e2c56cfe42431acfddcaf363f892.js": "/to-do-simple/precache-manifest.1af9e2c56cfe42431acfddcaf363f892.js",
+    "service-worker.js": "/to-do-simple/service-worker.js",
+    "static/css/main.dd3a2d97.chunk.css.map": "/to-do-simple/static/css/main.dd3a2d97.chunk.css.map",
+    "static/media/logo.svg": "/to-do-simple/static/media/logo.5d5d9eef.svg"
+  }
+}
